@@ -1,5 +1,7 @@
 # learning-Sass-SCSS
 
+![Logo Sass](./images/logo-b6e1ef6e.svg)
+
 An exercise to practice with Sass and SCSS
 
 ## 1.- Sass / SCSS compiler
